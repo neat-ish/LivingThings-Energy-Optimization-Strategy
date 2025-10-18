@@ -1,0 +1,21 @@
+site_id,location,type,floor_area
+1,Chennai,Retail Store,4556
+2,Hyderabad,Retail Store,4890
+3,Bengaluru,Office,9838
+4,Hyderabad,Office,6393
+5,Hyderabad,Retail Store,9792
+6,Delhi,Retail Store,9433
+7,Bengaluru,Retail Store,8513
+8,Bengaluru,Warehouse,3612
+9,Bengaluru,Warehouse,8041
+10,Hyderabad,Warehouse,7235
+11,Chennai,Office,6486
+12,Bengaluru,Warehouse,8099
+13,Kolkata,Office,1775
+14,Hyderabad,Office,9226
+15,Delhi,Warehouse,4152
+16,Chennai,Office,2585
+17,Kolkata,Warehouse,4943
+18,Kolkata,Warehouse,8555
+19,Delhi,Retail Store,4073
+20,Chennai,Warehouse,2021
